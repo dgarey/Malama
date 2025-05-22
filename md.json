@@ -1,7 +1,7 @@
 {
   "name": "Malama",
-  "description": "Providing Resources for Maui Farmers",
+  "description": "From Hawaiʻi For the Planet Restoring Ecosystems, Empowering Communities",
   "ticker": "MLMA",
   "homepage": "https://www.malamacarbon.com/",
-  "extended": "https://kinaole-pool.github.io/Kinaole-pool/extended.json"
+  "extended": "https://raw.githubusercontent.com/dgarey/Malama/refs/heads/main/extended.json"
 }
